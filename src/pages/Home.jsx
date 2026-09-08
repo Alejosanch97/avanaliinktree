@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "../Styles/home.css";
-import logoUrl from "../assets/img/avana-logo.jpg"; // reemplaza por tu logo
+import logoUrl from "../assets/img/avana2.png"; // reemplaza por tu logo
 
 const LINKS = [
 	{ label: "Catálogo", sublabel: "Explora la colección · WhatsApp", url: "https://wa.me/c/573225109005", tag: "01" },
