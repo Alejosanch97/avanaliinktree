@@ -47,16 +47,11 @@ export const Home = () => {
 					</div>
 				</div>
 
-				<h1 className="av-name">AVANA</h1>
-				<p className="av-sub">LEATHER</p>
-
 				<p className="av-tag">
 					<span className="av-line" />
 					Marroquinería artesanal · Sur de Colombia
 					<span className="av-line" />
 				</p>
-
-				<p className="av-quote">«No vendemos cuero. Honramos legados.»</p>
 
 				<div className="av-links">
 					{LINKS.map((l, i) => (
