@@ -489,7 +489,7 @@ export const Home = () => {
 
 				<footer className="av-foot rv" style={{ "--d": "1.85s" }}>
 					<span className="tricolor" aria-hidden="true" />
-					<span className="av-foot-made">Hecho a mano en Colombia</span>
+					<span className="av-foot-made">100% Colombiano</span>
 					<span>© {new Date().getFullYear()} · AVANA LEATHER · UN LEGADO HECHO A MANO</span>
 				</footer>
 			</main>
